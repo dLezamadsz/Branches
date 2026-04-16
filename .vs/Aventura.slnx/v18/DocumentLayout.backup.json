@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Aventura\\",
+  "WorkspaceRootPath": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Branches\\Aventura\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FF1A18E-F48F-4EA8-B99F-342AB1B86A00}|Aventura.csproj|c:\\users\\diana\\desktop\\2026-1\\ejercicios\\aventura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FF1A18E-F48F-4EA8-B99F-342AB1B86A00}|Aventura.csproj|c:\\users\\diana\\desktop\\2026-1\\ejercicios\\branches\\aventura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FF1A18E-F48F-4EA8-B99F-342AB1B86A00}|Aventura.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1A18E-F48F-4EA8-B99F-342AB1B86A00}|Aventura.csproj|c:\\users\\diana\\desktop\\2026-1\\ejercicios\\branches\\aventura\\manzana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF1A18E-F48F-4EA8-B99F-342AB1B86A00}|Aventura.csproj|solutionrelative:manzana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1A18E-F48F-4EA8-B99F-342AB1B86A00}|Aventura.csproj|c:\\users\\diana\\desktop\\2026-1\\ejercicios\\branches\\aventura\\durian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF1A18E-F48F-4EA8-B99F-342AB1B86A00}|Aventura.csproj|solutionrelative:durian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1A18E-F48F-4EA8-B99F-342AB1B86A00}|Aventura.csproj|c:\\users\\diana\\desktop\\2026-1\\ejercicios\\branches\\aventura\\fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF1A18E-F48F-4EA8-B99F-342AB1B86A00}|Aventura.csproj|solutionrelative:fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF1A18E-F48F-4EA8-B99F-342AB1B86A00}|Aventura.csproj|c:\\users\\diana\\desktop\\2026-1\\ejercicios\\branches\\aventura\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF1A18E-F48F-4EA8-B99F-342AB1B86A00}|Aventura.csproj|solutionrelative:jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Branches\\Aventura\\Jugador.cs",
+              "RelativeDocumentMoniker": "Jugador.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Branches\\Aventura\\Jugador.cs",
+              "RelativeToolTip": "Jugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T22:34:42.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Durian.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Branches\\Aventura\\Durian.cs",
+              "RelativeDocumentMoniker": "Durian.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Branches\\Aventura\\Durian.cs",
+              "RelativeToolTip": "Durian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T22:29:12.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manzana.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Branches\\Aventura\\Manzana.cs",
+              "RelativeDocumentMoniker": "Manzana.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Branches\\Aventura\\Manzana.cs",
+              "RelativeToolTip": "Manzana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T22:28:28.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fruta.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Branches\\Aventura\\Fruta.cs",
+              "RelativeDocumentMoniker": "Fruta.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Branches\\Aventura\\Fruta.cs",
+              "RelativeToolTip": "Fruta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T22:25:53.45Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Aventura\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Branches\\Aventura\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Aventura\\Program.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\2026-1\\ejercicios\\Branches\\Aventura\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T22:19:01.349Z",
               "EditorCaption": ""
