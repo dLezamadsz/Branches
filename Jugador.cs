@@ -14,5 +14,10 @@ namespace Aventura
         {
             this.hp = hp;
         }
+
+        public int GetHP()
+        {
+            return hp;
+        }
     }
 }

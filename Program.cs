@@ -27,9 +27,12 @@ namespace Aventura
             switch (x)
             {
                 default: break;
-                case "1": Console.WriteLine(""); break;
-                case "2": Console.WriteLine(""); break;
-                case "3": Console.WriteLine(""); break;
+                case "1": 
+                    Console.WriteLine(""); break;
+                case "2": 
+                    Console.WriteLine(""); break;
+                case "3": 
+                    Console.WriteLine(""); break;
             }
         }
     }

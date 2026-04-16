@@ -13,5 +13,10 @@ namespace Aventura
             this.name = "Manzana";
             this.effect = 3;
         }
+
+        public int GetEffect()
+        {
+            return this.effect;
+        }
     }
 }

@@ -13,5 +13,9 @@ namespace Aventura
             this.name = "Durian";
             this.effect = -5;
         }
+        public int GetEffect()
+        {
+            return this.effect;
+        }
     }
 }
